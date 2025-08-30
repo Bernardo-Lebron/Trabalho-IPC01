@@ -3,7 +3,6 @@ Projetos em C 🚀
 
 Conjunto de pequenos projetos acadêmicos em linguagem C, desenvolvidos para praticar lógica de programação, estruturas de dados e algoritmos clássicos.
 
-📂 Projetos
 <h2> 1. Simulação de Fuga em Mapa </h2>
 
 Geração de mapa 2D com robôs (R), humano (H) e zona segura (Z).
