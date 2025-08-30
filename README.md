@@ -33,7 +33,7 @@ Destaque: manipulação de strings e tratamento de entrada do usuário.
 
 <h2> Tecnologias e Conceitos </h2> 
 
-Linguagem C (ANSI C)
+Linguagem C 
 
 Estruturas de Dados: matrizes, vetores, filas
 
