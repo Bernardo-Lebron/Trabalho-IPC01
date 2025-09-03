@@ -1,5 +1,5 @@
 # Trabalho-IPC01
-Projetos em C 🚀
+Projetos em C 
 
 Conjunto de pequenos projetos acadêmicos em linguagem C, desenvolvidos para praticar lógica de programação, estruturas de dados e algoritmos clássicos.
 
