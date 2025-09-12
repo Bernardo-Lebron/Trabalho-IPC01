@@ -49,4 +49,4 @@ gcc main.c -o programa
 ./programa   # Linux/Mac
 programa.exe # Windows
 
-<h4> Projetos desenvolvidos por Bernardo Lebron – Estudante de Engenharia de Computação (CEFET-MG). </h4> 
+<h4> Projetos desenvolvidos por Bernardo Lebron – Estudante de Engenharia de Computação (CEFET-MG) </h4> 
